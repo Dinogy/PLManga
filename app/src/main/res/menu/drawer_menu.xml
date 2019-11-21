@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/xemganday"
+    android:title="Xem Gần Đây"
+    android:icon="@drawable/ic_forward_10_black_24dp"
+    ></item>
+
+    <item android:id="@+id/truyentheodoi"
+        android:title="Truyện Theo Dõi"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        ></item>
+
+    <item android:id="@+id/updatetruyen"
+        android:title="Update Truyện"
+        android:icon="@drawable/ic_file_upload_black_24dp"
+        ></item>
+
+    <item android:id="@+id/truyenhot"
+        android:title="Truyện Hót"
+        android:icon="@drawable/ic_android_black_24dp"
+        ></item>
+
+    <item android:id="@+id/thoat"
+        android:title="Thoát"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        ></item>
+
+
+</menu>
